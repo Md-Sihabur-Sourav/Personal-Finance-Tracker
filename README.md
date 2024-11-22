@@ -1,4 +1,12 @@
-# Personal Finance Tracker Project Documentation
+# Personal Finance Tracker Project
+
+## Personal Details
+- **Name:** Md. Sihabur Islam Sourav  
+- **ID:** 2102013  
+
+## Project Title
+**Personal Finance Tracker**
+
 
 ## Introduction
 This document outlines the development and maintenance of a Personal Finance Tracker project. 
